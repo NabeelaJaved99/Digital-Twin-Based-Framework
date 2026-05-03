@@ -1,0 +1,13 @@
+bin_id,area_type,collections,overflow_events,avg_fill_%,max_fill_%,avg_delay_h
+BIN_C01,Commercial,6,0,48.9,95.8,1.79
+BIN_C02,Commercial,6,1,51.5,100.0,2.03
+BIN_C03,Commercial,5,0,43.3,89.8,1.66
+BIN_R01,Residential,3,0,45.8,90.7,1.98
+BIN_R02,Residential,3,0,46.0,89.4,1.15
+BIN_R03,Residential,3,0,43.7,96.1,2.25
+BIN_R04,Residential,3,0,46.2,80.9,1.59
+BIN_I01,Industrial,4,0,44.7,85.6,2.25
+BIN_I02,Industrial,4,1,47.2,100.0,2.78
+BIN_P01,Park,1,0,43.8,82.8,1.92
+BIN_P02,Park,2,0,45.9,85.2,2.52
+BIN_P03,Park,2,0,44.8,87.8,2.15
